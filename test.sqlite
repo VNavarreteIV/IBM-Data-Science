@@ -1,3 +1,5 @@
+/* Building a Usage Funnel */
+
 WITH funnels AS (
   SELECT DISTINCT b.browse_date,
      b.user_id,
